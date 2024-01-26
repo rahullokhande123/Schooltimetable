@@ -1,1 +1,1 @@
-# rentcollectiontable
+# schooltimetable
